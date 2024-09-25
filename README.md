@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Joseph Percival
-- 👀 I’m interested in UX Design, UX Design Research, User Testing and Front End Web Development
-- 🌱 I’m currently learning Voice Command Systems
-- 💞️ I’m looking to collaborate on similar projects
-- 📫 Contact me by email: joseph.m.percival@gmail.com 
+- 👀 I’m interested in UX & UI Design, UX Testing and Front End Web Development
+- 🌱 I’m currently designing and developing Voice Command Systems
